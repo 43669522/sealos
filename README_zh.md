@@ -26,7 +26,11 @@
 
 </div>
 
-https://github.com/user-attachments/assets/2fc03676-3310-4f81-8f1c-dd1ab225dde0
+
+
+https://github.com/user-attachments/assets/241941a2-6f0a-4784-ae28-71a3d591ccdd
+
+
 
 <p align="center">
   <a href="https://sealos.run/docs/Intro">文档</a> |
